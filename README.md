@@ -137,11 +137,6 @@ A Final-year Computer Science undergraduate specializing in **Data Science** and
   <img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" width="40" height="40" alt="Ollama"/>
 </a>
 
-<a href="https://ai.meta.com/llama/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="LLaMA"/>
-  <span>🦙</span>
-</a>
-
 <a href="https://n8n.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" height="40" alt="n8n"/>
 </a>
