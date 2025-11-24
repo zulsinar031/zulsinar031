@@ -138,11 +138,12 @@ A Final-year Computer Science undergraduate specializing in **Data Science** and
 </a>
 
 <a href="https://ai.meta.com/llama/" target="_blank">
-  <img src="https://github.com/meta-llama/llama-models/raw/main/llama.png" width="40" height="40" alt="LLaMA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="LLaMA"/>
+  <span>🦙</span>
 </a>
 
 <a href="https://n8n.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" width="40" height="40" alt="n8n"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" height="40" alt="n8n"/>
 </a>
 
 <a href="https://github.com/langchain-ai/langchain" target="_blank">
@@ -161,8 +162,30 @@ A Final-year Computer Science undergraduate specializing in **Data Science** and
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=zulsinar031&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-       alt="GitHub Stats" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zulsinar031&theme=tokyonight"
+       alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zulsinar031&theme=tokyonight"
+       alt="Top Languages" 
+       height="180"/>
+  <img 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zulsinar031&theme=tokyonight"
+       alt="Most Commit Language" 
+       height="180"/>
+</p>
+
+<p align="center">
+  <img 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zulsinar031&theme=tokyonight"
+       alt="Stats" 
+       height="180"/>
+  <img 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zulsinar031&theme=tokyonight"
+       alt="Productive Time" 
+       height="180"/>
 </p>
 
 <p align="center">
