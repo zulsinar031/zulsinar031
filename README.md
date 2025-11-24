@@ -77,11 +77,11 @@ A Final-year Computer Science undergraduate specializing in **Data Science** and
 <p align="left">
 
 <a href="https://laravel.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </a>
 
 </p>
@@ -92,23 +92,23 @@ A Final-year Computer Science undergraduate specializing in **Data Science** and
 <p align="left">
 
 <a href="https://pytorch.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
 </a>
 
 <a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://matplotlib.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 </a>
 
 </p>
@@ -119,35 +119,39 @@ A Final-year Computer Science undergraduate specializing in **Data Science** and
 <p align="left">
 
 <a href="https://ollama.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/ollama/ollama/main/docs/public/ollama.png" width="40" height="40" alt="Ollama"/>
+  <img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" width="40" height="40" alt="Ollama"/>
 </a>
 
-<a href="https://ai.meta.com/research/llama/" target="_blank">
-  <img src="https://raw.githubusercontent.com/facebookresearch/llama/main/llama_logo.png" width="40" height="40" alt="LLaMA"/>
+<a href="https://ai.meta.com/llama/" target="_blank">
+  <img src="https://github.com/meta-llama/llama-models/raw/main/llama.png" width="40" height="40" alt="LLaMA"/>
 </a>
 
-<a href="https://github.com/facebookresearch/faiss" target="_blank">
-  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/resources/faiss-logo.png" width="40" height="40" alt="FAISS"/>
+<a href="https://github.com/langchain-ai/langchain" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="LangChain"/>
 </a>
 
-<a href="https://groq.com/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/56886347?s=200&v=4" width="40" height="40" alt="Groq"/>
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/>
 </a>
 
 </p>
-
-
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulsinar031&layout=compact&theme=dark"
-       alt="Top Languages" />
-  &nbsp;&nbsp;&nbsp;
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulsinar031&layout=compact&theme=tokyonight"
+       alt="Top Languages" 
+       height="180"/>
   <img 
-       src="https://github-readme-stats.vercel.app/api/?username=zulsinar031&show_icons=true&theme=dark"
-       alt="GitHub Stats" />
+       src="https://github-readme-stats.vercel.app/api?username=zulsinar031&show_icons=true&theme=tokyonight"
+       alt="GitHub Stats" 
+       height="180"/>
 </p>
 
+<p align="center">
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=zulsinar031&theme=tokyonight"
+       alt="GitHub Streak" />
+</p>
