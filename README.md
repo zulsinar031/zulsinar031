@@ -183,8 +183,4 @@ A Final-year Computer Science undergraduate specializing in **Data Science** and
        height="180"/>
 </p>
 
-<p align="center">
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=zulsinar031&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak" />
-</p>
+
