@@ -119,11 +119,15 @@ A Final-year Computer Science undergraduate specializing in **Data Science** and
 <p align="left">
 
 <a href="https://ollama.com/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/150686177?s=200&v=4" width="40" height="40" alt="Ollama"/>
+  <img src="https://raw.githubusercontent.com/ollama/ollama/main/docs/public/ollama.png" width="40" height="40" alt="Ollama"/>
+</a>
+
+<a href="https://ai.meta.com/research/llama/" target="_blank">
+  <img src="https://raw.githubusercontent.com/facebookresearch/llama/main/llama_logo.png" width="40" height="40" alt="LLaMA"/>
 </a>
 
 <a href="https://github.com/facebookresearch/faiss" target="_blank">
-  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/faiss-logo.png" width="40" height="40" alt="FAISS"/>
+  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/resources/faiss-logo.png" width="40" height="40" alt="FAISS"/>
 </a>
 
 <a href="https://groq.com/" target="_blank">
@@ -132,12 +136,18 @@ A Final-year Computer Science undergraduate specializing in **Data Science** and
 
 </p>
 
+
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zulsinar031&show_icons=true&layout=compact&theme=dark" alt="Top Languages"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=zulsinar031&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulsinar031&layout=compact&theme=dark"
+       alt="Top Languages" />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+       src="https://github-readme-stats.vercel.app/api/?username=zulsinar031&show_icons=true&theme=dark"
+       alt="GitHub Stats" />
 </p>
+
