@@ -13,6 +13,7 @@ A Final-year Computer Science undergraduate specializing in **Data Science** and
 - 💡 Exploring new concepts in AI  
 - 🌱 Continuously learning machine learning & data science  
 - 📬 Reach me at **mahadhikam@gmail.com**
+- 🌐 **Portfolio:** [zulsinar031.github.io](https://zulsinar031.github.io)
 
 ---
 
