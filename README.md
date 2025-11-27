@@ -3,7 +3,7 @@ Hi 👋, I'm **Muhammad Izzul Sinar Mahadhika**
 A Final-year Computer Science undergraduate specializing in **Data Science** and **Machine Learning**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zulsinar031&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zulsinar031&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="Profile views" />
 </p>
 
 ---
