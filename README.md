@@ -41,7 +41,8 @@ A Final-year Computer Science undergraduate specializing in **Data Science** and
 
 ## 🧑‍💻 Software & AI/ML Development
 
-<p align="left"><a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/></a><a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/></a><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/></a><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/></a></p>
+<p align="left"><a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/></a><a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/></a><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask"/></a><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40" alt="FastAPI"/></a></p>
+
 ---
 
 ## 📊 Machine Learning & Data Science
@@ -58,16 +59,8 @@ A Final-year Computer Science undergraduate specializing in **Data Science** and
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zulsinar031&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zulsinar031&theme=tokyonight" alt="GitHub Profile Summary"/></p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zulsinar031&theme=tokyonight" alt="Top Languages" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zulsinar031&theme=tokyonight" alt="Most Commit Language" height="180"/>
-</p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zulsinar031&theme=tokyonight" alt="Top Languages" height="180"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zulsinar031&theme=tokyonight" alt="Most Commit Language" height="180"/></p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zulsinar031&theme=tokyonight" alt="Stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zulsinar031&theme=tokyonight" alt="Productive Time" height="180"/>
-</p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zulsinar031&theme=tokyonight" alt="Stats" height="180"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zulsinar031&theme=tokyonight" alt="Productive Time" height="180"/></p>
